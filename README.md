@@ -1,4 +1,9 @@
 # Projeto-Automatos-Celulares
+
+![image](https://user-images.githubusercontent.com/101509337/217432338-debe5ce0-5c8a-49ea-acd6-90779cf70798.png)
+
+
+##
 Projeto de matemática discreta sobre autômatos celulares que foi realizado em dupla.
 
 O Jogo da Vida (The Game of Life) é um algoritmo de simulação de um sistema dinâmico criado
